@@ -1,8 +1,8 @@
 Analyze allele and genotype frequencies of tetraploid SNP data
 with optional binning of observed frequencies for smoother curves.
 
-This script reads samples from a VCF file and computes allele frequencies 
-and genotype frequency distributions for selected samples. It outputs
+This script reads samples from a VCF file and computes allele frequency 
+vs. genotype frequency distributions for selected samples. It outputs
 a plot of genotype frequency vs. allele frequency in SVG file format, showing:
 
 - rasterized observed datapoints,
